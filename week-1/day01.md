@@ -17,4 +17,5 @@ docker run ubuntu echo "Hello Workstation"
 
 #Docker file
 FROM ubuntu:22.04
-CMD ["echo","Hello Workstation"
+CMD ["echo","Hello Workstation"]
+
